@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CustomFont</string>
+    <string name="custom_font_txt_content">30 Days Kotlin\n这些字体来自造字工房\n特别感谢造字工房，本案例不涉及商业使用\n使用的字体为造字工房妙妙体、情书体、致黑体</string>
+    <string name="btn_change_font">Change Font</string>
+</resources>
